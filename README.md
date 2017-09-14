@@ -8,8 +8,9 @@
 因此,还是建议学习[My Blog](https://github.com/ZHENFENG13/My-Blog).<br/>
 
 ## documents
-[Springboot与Thymeleaf模板引擎整合基础教程](http://www.cnblogs.com/han-1034683568/p/7520012.html)
-[Thymeleaf模板引擎调用java方法](##)
+
+- [Springboot与Thymeleaf模板引擎整合基础教程](http://www.cnblogs.com/han-1034683568/p/7520012.html)
+- [Thymeleaf模板引擎调用java方法](##)
 
 ## preview
 
