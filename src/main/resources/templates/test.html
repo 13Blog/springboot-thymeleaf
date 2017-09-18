@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8"/>
+    <title>java method test</title>
+</head>
+<body>
+<p th:text="${MethodTest.test()}"/>
+<p th:text="'时间戳: ' + ${MethodTest.getTime()} + '!'"/>
+</body>
+</html>
