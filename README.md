@@ -18,8 +18,14 @@
 
 ## guide
 
-项目启动后,在浏览器端输入以下url即可,如:
+项目启动后,在浏览器端输入以下url,如果看到页面输出正常则为整合成功,如:
 
 ```http://localhost:8080/hello```<br/>
 ```http://localhost:8080/hello?name=13```<br/>
 ```http://localhost:8080/hello?name=世界```<br/>
+
+关于thymeleaf调用java类中方法出现的问题,验证的url为:
+
+```http://localhost:8080/test1```<br/>
+```http://localhost:8080/test2```<br/>
+```http://localhost:8080/test3```<br/>
