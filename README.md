@@ -10,7 +10,7 @@
 ## documents
 
 - [Springboot与Thymeleaf模板引擎整合基础教程](http://www.cnblogs.com/han-1034683568/p/7520012.html)
-- [Thymeleaf模板引擎调用java方法](##)
+- [thymeleaf模板引擎调用java类中的方法](http://www.cnblogs.com/han-1034683568/p/7527564.html)
 
 ## preview
 
